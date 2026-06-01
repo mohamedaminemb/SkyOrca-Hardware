@@ -37,13 +37,17 @@
 ---
 
 ## Contents
+
+```
 SkyOrcaFC/
 ├── kicad/
 │   ├── flightcontrolerPCB.kicad_sch    # Schematic
 │   ├── flightcontrolerPCB.kicad_pcb    # PCB layout (4-layer, 60×50 mm)
 │   └── schematic.pdf                   # Schematic PDF
 └── docs/images/SkyOrcaFC/              # 3D renders + layer screenshots
+```
 
+## Ordering
 ## Ordering
 
 Upload the Gerber zip to [JLCPCB](https://jlcpcb.com):
