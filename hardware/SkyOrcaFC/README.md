@@ -19,9 +19,9 @@
 
 | Front | Back |
 |-------|------|
-| ![3D Front](docs/images/SkyOrcaFC/3d_front.png) | ![3D Back](docs/images/SkyOrcaFC/3d_back.png) |
+| ![3D Front](../../docs/images/SkyOrcaFC/3d_front.png) | ![3D Back](../../docs/images/SkyOrcaFC/3d_back.png) |
 
-![3D Top](docs/images/SkyOrcaFC/3d_top.png)
+![3D Top](../../docs/images/SkyOrcaFC/3d_top.png)
 
 ---
 
@@ -29,23 +29,21 @@
 
 | Layer | Preview |
 |-------|---------|
-| **F.Cu** — Front copper (signal + components) | ![F.Cu](docs/images/SkyOrcaFC/layer_F_Cu.png) |
-| **In1.Cu** — Ground plane | ![In1 GND](docs/images/SkyOrcaFC/layer_In1_GND.png) |
-| **In2.Cu** — Power plane (3.3V / 5V) | ![In2 VCC](docs/images/SkyOrcaFC/layer_In2_VCC.png) |
-| **B.Cu** — Back copper (signal) | ![B.Cu](docs/images/SkyOrcaFC/layer_B_Cu.png) |
+| **F.Cu** — Front copper (signal + components) | ![F.Cu](../../docs/images/SkyOrcaFC/layer_F_Cu.png) |
+| **In1.Cu** — Ground plane | ![In1 GND](../../docs/images/SkyOrcaFC/layer_In1_GND.png) |
+| **In2.Cu** — Power plane (3.3V / 5V) | ![In2 VCC](../../docs/images/SkyOrcaFC/layer_In2_VCC.png) |
+| **B.Cu** — Back copper (signal) | ![B.Cu](../../docs/images/SkyOrcaFC/layer_B_Cu.png) |
 
 ---
 
 ## Contents
 
-```
 SkyOrcaFC/
 ├── kicad/
 │   ├── flightcontrolerPCB.kicad_sch    # Schematic
 │   ├── flightcontrolerPCB.kicad_pcb    # PCB layout (4-layer, 60×50 mm)
 │   └── schematic.pdf                   # Schematic PDF
 └── docs/images/SkyOrcaFC/              # 3D renders + layer screenshots
-```
 
 ## Ordering
 
