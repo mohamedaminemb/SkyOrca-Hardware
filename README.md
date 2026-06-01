@@ -154,7 +154,7 @@ This project follows a **hardware/software co-design** methodology. Every compon
 
 ## Project Context
 
-SkyOrca is a final-year engineering project at **ENSI** (École Nationale des Sciences de l'Informatique, Tunisia), developed in the context of Tunisia's first civil drone legislation (Finance Law 2026, Article 135), in collaboration with **LAB619 Engineering & Consulting Services**.
+SkyOrca is a design and development project (PCD) at **ENSI** (École Nationale des Sciences de l'Informatique, Tunisia), developed in the context of Tunisia's first civil drone legislation (Finance Law 2026, Article 135), in collaboration with **LAB619 Engineering & Consulting Services**.
 
 **Team:** Mohamed Amine Embarki · Hamza Soltani  
 **Supervisors:** Mme. Chadha Jerad · M. Jawher Mansour (LAB619)  
