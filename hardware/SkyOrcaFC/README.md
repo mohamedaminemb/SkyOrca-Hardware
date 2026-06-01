@@ -37,7 +37,6 @@
 ---
 
 ## Contents
-
 SkyOrcaFC/
 ├── kicad/
 │   ├── flightcontrolerPCB.kicad_sch    # Schematic
