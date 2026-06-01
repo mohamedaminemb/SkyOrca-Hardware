@@ -1,0 +1,114 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+CERN-OHL-S v2
+
+Copyright CERN 2020.
+
+Everyone is permitted to copy and distribute verbatim copies of this
+licence document, but changing it is not allowed.
+
+                       CERN-OHL-S v2
+
+TERMS AND CONDITIONS
+
+0 Definitions
+
+  'Licence' means this CERN-OHL-S v2 licence.
+
+  'Compatible Licence' means CERN-OHL-S v2 or, for Source available
+   under CERN-OHL-S v2, any later version of CERN-OHL-S.
+
+  'Licensor' means any person or entity that distributes its Source or
+   Product under this Licence.
+
+  'Source' means information such as design materials or digital code
+   which can be applied to Make or test a Product or to prepare a
+   Product for use, reproduction or distribution.
+
+  'Covered Source' means Source that is explicitly made available under
+   this Licence.
+
+  'Product' means any device, component, work or physical object,
+   whether in finished or intermediate form, arising from the use,
+   application or processing of Covered Source.
+
+  'Make' means to create or configure something, whether by manufacture,
+   assembly, compiling, loading or applying Covered Source or another
+   Product or otherwise.
+
+  'Available Component' means, in relation to a Product, any
+   component that its Licensor has documented as having been readily
+   commercially available at the time and place of its first distribution.
+
+  'External Material' means anything (including Source) which is
+   used by a Product, but which is not itself part of the Covered Source.
+
+  'Recipient' means anyone who receives the Covered Source under this Licence.
+
+  'Contributor' means a Licensor who modifies the Covered Source.
+
+  'You' means the Recipient.
+
+  'Your' has a corresponding meaning.
+
+1 Applicability
+
+  1.1 This Licence governs the use, copying, modification, Making and
+      distribution of Covered Source and Products, and the terms
+      applicable to Contributors.
+
+  1.2 This Licence is granted by the Licensor directly to You, and shall
+      apply worldwide and without limitation in time.
+
+  1.3 You may use the Covered Source in any manner that is permitted by
+      this Licence.
+
+  1.4 This Licence does not affect any intellectual property rights of
+      third parties, including patent rights.
+
+2 Conditions
+
+  2.1 The grant of rights in Section 1 is subject to the following conditions:
+
+    (a) You must retain all copyright notices and all notices of this Licence
+        in the Covered Source that You distribute or make available to others.
+
+    (b) You must include a copy of this Licence (or a URI at which it is
+        available) with every copy of Covered Source You distribute.
+
+    (c) You must cause any Covered Source You modify to be made available
+        under this Licence.
+
+    (d) You must make available the complete Covered Source, including
+        any Modifications, for any Product you Make.
+
+3 Acknowledgement
+
+  3.1 If You make a Product, You must include a notice in the Product or
+      its documentation (if any) acknowledging the use of the Covered Source.
+
+4 Disclaimer and Liability
+
+  4.1 DISCLAIMER OF WARRANTY — THE COVERED SOURCE IS PROVIDED 'AS IS',
+      WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+  4.2 LIMITATION OF LIABILITY — TO THE MAXIMUM EXTENT PERMITTED BY LAW,
+      IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+      INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
+
+---
+
+SkyOrca Hardware
+Copyright (C) 2026 Mohamed Amine Embarki, Hamza Soltani — ENSI Tunisia
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
+
+You may redistribute and modify this documentation and make products
+using it under the terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).
+
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
+AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2
+for applicable conditions.
+
+Source location: https://github.com/YOUR_USERNAME/SkyOrca-Hardware
